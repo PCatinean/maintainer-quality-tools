@@ -13,6 +13,7 @@ omit =
     *__init__.py
     *__openerp__.py
     *__manifest__.py
+    $CODECOV_OMIT
 
 # Regexes for lines to exclude from consideration
 exclude_lines =
